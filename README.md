@@ -7,6 +7,7 @@ An example dataset generation via Grove sensors connected to Arduino Leonardo.
 - Environment is 25 m2 studio room contains 2 people.
 - Data is collected from 10/03/2021 18:36 PM to 11/03/2021 18.36 PM.
 - Data might be considered as normal, there are no anomalies created on purpose.
+- [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/) is used to generate a CSV file. 
 
 ## Sensors Used for Data Generation
 
@@ -18,3 +19,4 @@ An example dataset generation via Grove sensors connected to Arduino Leonardo.
 ## My Observations Regarding Sensor Qualities
 
 - All sensors other than light sensor are fairly slow and not sensitive. Those sensors data can be used to examine the effects of inadequate sensors.
+
