@@ -20,5 +20,5 @@ An example dataset generation via Grove sensors connected to Arduino Leonardo.
 
 ## My Observations Regarding Sensor Qualities
 
-- All sensors other than light sensor are fairly slow and not sensitive. Those sensors data can be used to examine the effects of inadequate sensors.
-
+- Regarding 1st dataset, sensors other than light sensor are fairly slow and not sensitive. Those sensors data can be used to examine the effects of inadequate sensors.
+- Grove - Temperature&Humidity Sensor (High-Accuracy &Mini) v1.0 has an acceptable resolution/accuracy.
