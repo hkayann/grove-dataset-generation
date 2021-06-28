@@ -13,7 +13,7 @@ An example dataset generation via Grove sensors connected to Arduino Leonardo.
 ## Sensors Used for Data Generation
 
 - [Grove - Temperature&Humidity Sensor (DHT11)](https://wiki.seeedstudio.com/Grove-TemperatureAndHumidity_Sensor/)
-- [Grove Light Sensor](https://wiki.seeedstudio.com/Grove-Light_Sensor/)
+- [Grove - Light Sensor](https://wiki.seeedstudio.com/Grove-Light_Sensor/)
 - [Grove - Loudness Sensor](https://wiki.seeedstudio.com/Grove-Loudness_Sensor/)
 - [Grove - Air Quality Sensor v1.3](https://wiki.seeedstudio.com/Grove-Air_Quality_Sensor_v1.3/)
 - [Grove - Temperature&Humidity Sensor (High-Accuracy &Mini) v1.0](https://wiki.seeedstudio.com/Grove-TemptureAndHumidity_Sensor-High-Accuracy_AndMini-v1.0/)
